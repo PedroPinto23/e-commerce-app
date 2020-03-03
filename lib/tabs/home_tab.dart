@@ -41,8 +41,8 @@ class HomeTab extends StatelessWidget {
                     height: 200,
                     alignment: Alignment.center,
                     child: CircularProgressIndicator(
-                        valueColor:
-                            AlwaysStoppedAnimation<Color>(Colors.white)),
+                      valueColor: AlwaysStoppedAnimation<Color>(Colors.white),
+                    ),
                   ),
                 );
               } else {
