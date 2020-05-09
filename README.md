@@ -4,6 +4,5 @@ A new Flutter project.
 
 ## Getting Started
 
-Este Aplicativo ainda está sendo desenvolvido
 
-# App being developed with Flutter and Firebase.
+# App developed with Flutter and Firebase.
